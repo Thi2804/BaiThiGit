@@ -1,2 +1,7 @@
 Du an bai thi Git
+HEAD
 Develop cap nhat dong nay
+
+Code chuc nang login phan 1
+Code chuc nang login phan 2
+feature/login
